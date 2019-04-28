@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://neuropro.github.io/VMLProEEG.ipa</string>
+		<string>https://neuropro.github.io/</string>
 		<key>displayImageURL</key>
-		<string>https://neuropro.github.io/icon_57.png</string>
+		<string>https://neuropro.github.io/image_1.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://neuropro.github.io/icon_512.png</string>
+		<string>https://neuropro.github.io/image_2.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
